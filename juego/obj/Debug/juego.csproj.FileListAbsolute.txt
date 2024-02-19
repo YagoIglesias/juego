@@ -1,0 +1,7 @@
+D:\Programmation\juego\juego\obj\Debug\juego.csproj.AssemblyReference.cache
+D:\Programmation\juego\juego\obj\Debug\juego.csproj.CoreCompileInputs.cache
+D:\Programmation\juego\juego\bin\Debug\juego.exe.config
+D:\Programmation\juego\juego\bin\Debug\juego.exe
+D:\Programmation\juego\juego\bin\Debug\juego.pdb
+D:\Programmation\juego\juego\obj\Debug\juego.exe
+D:\Programmation\juego\juego\obj\Debug\juego.pdb
